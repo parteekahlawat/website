@@ -20,19 +20,19 @@ No matter how many TIE fighters are at your back, stay on the target topic of ea
 
 ## Encourage participation
 
-Be biased toward conversation and participation. Be comfortable asking questions and providing answers.
+Be biased toward conversation and participation. Be comfortable for asking questions and providing answers.
 
-## Appropriate, minimal personal/business promotion
+## Appropriate, minimal personal/business promotions
 
 It's fine to let others in the community know about professional events, positions, new software releases and other developments that are highly relevant to the OpenControl and Compliance-as-Code community.
 
 It's also cool to share and celebrate accomplishments and support for community members in their achievement of some milestone, life-event, or other leveling-up. (It's also OK to professionally rally the community in support of community members.)
 
-It is not fine to spam our communication channels with multiple announcements, multiple times each week.
+It's not fine to spam our communication channels with multiple announcements, multiple times each week.
 
 Promotions for things not related OpenControl and Compliance-as-Code is restricted to appropriately designated Slack channels.
 
-## Acceptance the organizers can update the conduct code
+## Acceptance the organizers can update the conducted code
 
 _This policy is a "living" document, and subject to refinement and expansion in the future._
 
@@ -42,4 +42,4 @@ OpenControl is a place for everybody regardless of race, religion, gender, ident
 
 ## Getting help
 
-If you are experiencing technical problems or non technical problems (like harassment) contact Greg Elin (@gregelin) or another moderator on Slack.
+If you're experiencing technical problems or non technical problems (like harassment) contact Greg Elin (@gregelin) or another moderator on Slack.
